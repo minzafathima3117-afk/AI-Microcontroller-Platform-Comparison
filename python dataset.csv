@@ -1,0 +1,5 @@
+Platform,Processor,Architecture,Clock Speed,Flash Memory,SRAM,GPIO,Wi-Fi,Bluetooth,Verification Status
+Arduino Uno R3,ATmega328P,8-bit AVR,16 MHz,32 KB,2 KB,14 digital I/O,No,No,Verified
+ESP32-DevKitC,ESP32-WROOM-32E,Dual-core 32-bit Xtensa LX6,Up to 240 MHz,Confirm exact module variant,520 KB,"Up to 26, board-dependent",Yes,Yes,Verified
+STM32 Blue Pill,STM32F103C8T6,32-bit ARM Cortex-M3,72 MHz,64 KB,20 KB,"Up to 37, configuration-dependent",No,No,Verified
+Raspberry Pi Pico,RP2040,Dual-core ARM Cortex-M0+,133 MHz,2 MB,264 KB,26 exposed GPIOs,No,No,Verified

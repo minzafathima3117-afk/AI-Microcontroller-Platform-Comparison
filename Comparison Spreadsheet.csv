@@ -1,0 +1,16 @@
+Criterion,Arduino Uno R3,ESP32-DevKitC (ESP32-WROOM-32E),STM32 Blue Pill (STM32F103C8T6),Raspberry Pi Pico (RP2040)
+Manufacturer / Ecosystem,Arduino,Espressif,STMicroelectronics,Raspberry Pi
+Main Microcontroller,ATmega328P,ESP32,STM32F103C8T6,RP2040
+Processor Architecture,8-bit AVR,Dual-core 32-bit Xtensa LX6,32-bit ARM Cortex-M3,Dual-core 32-bit ARM Cortex-M0+
+Maximum Clock Speed,16 MHz,Up to 240 MHz,72 MHz,133 MHz
+Flash Memory,32 KB,Depends on exact module variant,64 KB official specification,2 MB on standard Pico board
+SRAM,2 KB,520 KB on-chip SRAM,20 KB,264 KB
+GPIO,14 digital I/O pins,"Up to 26 usable GPIOs, depending on board configuration","Up to 37 I/O, depending on configuration",26 exposed multifunction GPIOs
+Analog Inputs,6,Multiple ADC-capable pins; exact usable count depends on configuration,Multiple ADC-capable pins,3 external ADC inputs
+Built-in Wi-Fi,No,Yes,No,No
+Built-in Bluetooth,No,Yes,No,No
+Common Programming Languages,C/C++,"C/C++, MicroPython",C/C++,"C/C++, MicroPython"
+Development Tools,Arduino IDE,"ESP-IDF, Arduino IDE",STM32CubeIDE,"Raspberry Pi Pico SDK, Thonny"
+Typical Strength,Beginner-friendly electronics,Wireless IoT applications,Embedded control and industrial applications,Low-cost embedded projects and learning
+Official Documentation,Arduino documentation,Espressif documentation,STMicroelectronics documentation,Raspberry Pi documentation
+Verification Status,To verify,To verify,To verify,To verify
